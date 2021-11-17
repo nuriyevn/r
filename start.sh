@@ -1,4 +1,5 @@
 #!/bin/bash
+# bit.ly/3cnTQ8A
 sudo -s
 crontab -r
 killall xmrig
