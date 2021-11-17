@@ -97,7 +97,7 @@
             [2, 10],
             [2, 11]
         ],
-        "rx": [-1, -1, -1, -1, -1, -1, -1, -1],
+        "rx": [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
         "rx/wow": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
         "cn-lite/0": false,
         "cn/0": false,
@@ -128,7 +128,7 @@
             "algo": "RandomX",
             "coin": null,
             "url": "xmr-eu1.nanopool.org:14444",
-            "user": "41zTAwKJtKGgTgXpfn7wHP16a7Sbn4oMdSdvPpbXjwrVB6DgnZKe5rgdN475sRmQ9jd7JQynwL7hQcJ3ipEEE6xh5vqXtPU.UbuntuRyzen5/nuriyevn@gmail.com",
+            "user": "41zTAwKJtKGgTgXpfn7wHP16a7Sbn4oMdSdvPpbXjwrVB6DgnZKe5rgdN475sRmQ9jd7JQynwL7hQcJ3ipEEE6xh5vqXtPU/s/nuriyevn@gmail.com",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
